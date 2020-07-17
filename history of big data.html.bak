@@ -1,0 +1,29 @@
+<HTML>
+<body>
+<h1>
+big data</h1>
+<h2> links :</h2>
+<ul>
+  
+  
+  
+  <li><a href="defination of big data.html">defination of big data</a></li>
+  <li><a href="histroy of big data.html">histroy of big data</a></li>
+  <li><a href="advantages and disadvanatages of big data.html">advantages and disadvanatages of big data</a></li>
+  <li><a href="uses of big data.html">uses of big data </a></li>
+
+</ul>
+<h2>history of big data
+<meta charset="utf-8"/>
+
+Although the concept of big data itself is relatively new, the origins of big data sets go back to the 1960s and 1970s when the data scientist had just begun with the first data centers and relational database development. Around 2005, people started realizing how much data users are generating through Facebook, YouTube and other online services. Hadoop (an open source framework specially developed for storing and analyzing big data sets) was developed in the same year. 
+During this time NoSQL also started to grow in popularity. The development of open source frameworks such as Hadoop (and much more recently Spark) was important for big data development, since it makes big data easier to operate and better value for money to store. In the years that followed, the amount of big data increased dramatically. Users still produce massive amounts of data, but not only humans do it.
+
+With the advent of the Internet of Things ( IoT), the Internet connects more objects and devices, collecting data on customer usage patterns and product performance. More data came from the rise of machine learning.
+ While big data has come a long way, its usefulness has just begun. Cloud computing has further expanded the capabilities of big data. The cloud provides really flexible scalability, as developers can simply create custom sets to test a subset of data 
+
+ </h2>
+
+
+</body>
+</HTML>

@@ -1,0 +1,22 @@
+<HTML>
+<body>
+<h1>main page of big data</h1>
+
+<img src="lang.png" alt="main page">
+<h2> links :</h2>
+<ul>
+  
+ 
+  li><a href="defination of big data.html">defination of big data</a></li>
+  <li><a href="histroy of big data.html">histroy of big data</a></li>
+  <li><a href="advantages and disadvanatages of big data.html">advantages and disadvanatages of big data</a></li>
+  <li><a href="uses of big data.html">uses of big data </a></li>
+
+</ul>
+
+<h2>introduction to big data
+<meta charset="utf-8"/>
+ </h2>
+Big data refer to large and varied sets of information that are growing at an ever increasing rate. It includes the amount of information, the speed or speed that is created and collected, and the variety or range of data points covered. Big data often comes from multiple sources and comes in multiple formats
+</body>
+</HTML>
